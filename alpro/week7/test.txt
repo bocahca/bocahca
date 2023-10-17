@@ -1,0 +1,6 @@
+5
+ronaldo 7 800
+messi 10 750
+inzaghi 10 600
+pele 10 770
+maradona 10 805
